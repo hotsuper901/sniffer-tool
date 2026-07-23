@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Output files
+*.pcap
+*.json
+*.csv
+*.log
+*.hex
+y.json
+y.csv
+msj_capture.*
+
+# OS
+.DS_Store
+Thumbs.db

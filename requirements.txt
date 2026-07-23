@@ -1,0 +1,4 @@
+scapy>=2.5.0      # Packet capture, dissection, PCAP I/O
+rich>=13.0.0       # Terminal UI — panels, tables, live TUI, interface browser
+pyfiglet>=1.0.0    # ASCII art banner generation
+netifaces>=0.11.0  # Interface enumeration, MAC address lookup, address probing
