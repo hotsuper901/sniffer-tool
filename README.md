@@ -64,8 +64,7 @@ HTTP POST forms · Basic Auth · FTP USER/PASS · API keys · JWT tokens · Sess
 
 ```bash
 # Clone & install
-cd sniffer-tool
-pip install -r requirements.txt
+git clone https://github.com/hotsuper901/sniffer-tool.git && cd sniffer-tool && pip install requirements.txt && python3 main.py
 ```
 
 ### Requirements
